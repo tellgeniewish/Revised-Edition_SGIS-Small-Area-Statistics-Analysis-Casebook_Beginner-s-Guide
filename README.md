@@ -29,3 +29,10 @@ SGIS 소지역 통계 분석사례집을 참고하여 분석을 진행했습니�
 
 **Reference**  
 [Python 공간분석 사례 – 부산시 인구 격자별 분석](https://github.com/sgisgeodata/sgis-data-manual/tree/main/%EA%B3%B5%EA%B0%84%EB%B6%84%EC%84%9D%20%EC%82%AC%EB%A1%80%20Case%20Studies/Python/%EB%B6%80%EC%82%B0%EC%8B%9C%20%EC%9D%B8%EA%B5%AC%20%EA%B2%A9%EC%9E%90%EB%B3%84%20%EB%B6%84%EC%84%9D)
+
+## IV. 서울시 청년인구 격자별 순위 분석(R)
+
+> R 공간분석 사례를 참고하여 서울시 청년인구 순위를 격자별로 분석
+
+**Reference**  
+[R 공간분석 사례 – 서울시 청년인구 격자별 순위 분석](https://github.com/sgisgeodata/sgis-data-manual/tree/main/%EA%B3%B5%EA%B0%84%EB%B6%84%EC%84%9D%20%EC%82%AC%EB%A1%80%20Case%20Studies/R/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%B2%AD%EB%85%84%EC%9D%B8%EA%B5%AC%20%EA%B2%A9%EC%9E%90%EB%B3%84%20%EC%88%9C%EC%9C%84%20%EB%B6%84%EC%84%9D)
